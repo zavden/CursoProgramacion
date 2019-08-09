@@ -1,3 +1,4 @@
+#include<stdio.h>
 int nvar,i;
 float k1,k2;
 int main()
