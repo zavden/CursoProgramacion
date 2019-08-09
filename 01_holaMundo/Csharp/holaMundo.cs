@@ -1,0 +1,8 @@
+using System;                           //Inclusion de paqueteria System
+public class HolaMundo                  //Declaracion clase HolaMundo
+{
+	public static void Main(String[] args)  //Inicio del metodo Main
+	{
+		Console.Write("Hola mundo!");       //Impresion de mensaje
+	}                                       //Fin del metodo main
+}                                           //Fin del programa
